@@ -1,0 +1,241 @@
+DCE11,"1,1 Dichloroethylene (1,1 DCE) ",MCL = 6 UG/L
+TCA111,"1,1,1-Trichloroethane ",MCL = 200 UG/L
+PCA,"1,1,2,2 Tetrachloroethane (PCA) ",MCL = 1 UG/L
+FC113,"1,1,2-Trichloro-1,2,2-Trifluoroethane (Freon 113) ",MCL = 1.2 MG/L
+TCA112,"1,1,2-Trichloroethane ",MCL = 5 UG/L
+DCA11,"1,1-Dichloroethane (1,1 DCA) ",MCL = 5 UG/L
+EDB,"1,2 Dibromoethane (EDB) ",MCL = 0.05 UG/L
+DCBZ12,"1,2 Dichlorobenzene (1,2-DCB) ",MCL = 600 UG/L
+DCA12,"1,2 Dichloroethane (1,2 DCA) ",MCL = 0.5 UG/L
+DCPA12,"1,2 Dichloropropane (1,2 DCP) ",MCL = 5 UG/L
+TCPR123,"1,2,3-Trichloropropane (1,2,3 TCP) ",HBSL = 30 UG/L
+TCB124,"1,2,4- Trichlorobenzene (1,2,4 TCB) ",MCL = 5 UG/L
+TMB124,"1,2,4-Trimethylbenzene ",NL = 330 UG/L
+DBCP,"1,2-Dibromo-3-chloropropane (DBCP) ",MCL = 0.2 UG/L
+DCP13,"1,3 Dichloropropene ",MCL = 0.5 UG/L
+TMB135,"1,3,5-Trimethylbenzene ",NL = 330 UG/L
+DCBZ13,"1,3-Dichlorobenzene  ",NL = 600 UG/L
+DCBZ14,"1,4-Dichlorobenzene (p-DCB) ",MCL = 5 UG/L
+DIOXANE14,"1,4-Dioxane ",NL = 1 UG/L
+17DIMETHYLX,"1,7-Dimethylxanthine   ",None
+CLBZME2,2 Chlorotoluene ,NL = 140 UG/L
+TCDD2378,"2,3,7,8-Tetrachlorodibenzodioxin (Dioxin) ",MCL = 0.00003 UG/L
+SILVEX,"2,4,5-TP (Silvex) ",MCL = 50 UG/L
+TNT,"2,4,6-Trinitrotoluene (TNT) ",NL = 1 UG/L
+24D,"2,4-Dichlorophenoxyacetic acid (2,4 D) ",MCL = 70 UG/L
+CLBZME4,4 Chlorotoluene ,NL = 140 UG/L
+DDD44,"4,4\'-DDD ",None
+DDE44,"4,4\'-DDE ",None
+DDT44,"4,4\'-DDT ",None
+ACETAMPHEN,Acetaminophen  ,None
+ALACL,Alachlor ,MCL = 2 UG/L
+ALBUTEROL,Albuterol ,None
+ALDICARB,Aldicarb ,HBSL = 7 UG/L
+ALDSULF,Aldicarb Sulfone ,HBSL = 7 UG/L
+ALDSULFOX,Aldicarb sulfoxide ,HBSL = 7 UG/L
+BHCALPHA,Alpha-Benzene Hexachloride (Alpha-BHC) ,NL = 0.015 UG/L
+AL,Aluminum ,MCL = 1000 UG/L
+NH3NH4N,Ammonia ,None
+ACB,Anion/Cation Balance ,None
+SB,Antimony ,MCL = 6 UG/L
+AR,Argon ,None
+AS,Arsenic ,MCL = 10 UG/L
+ATRAZINE,Atrazine ,MCL = 1 UG/L
+AZIPE,Azinphos Ethyl ,HBSL = 10 UG/L
+BA,Barium ,MCL = 1 MG/L
+BENSULM,Bensulfuron Methyl ,HBSL = 1000 UG/L
+BTZ,Bentazon ,MCL = 18 UG/L
+BZ,Benzene ,MCL = 1 UG/L
+BZAP,Benzo(a)pyrene ,MCL = 0.2 UG/L
+BE,Beryllium ,MCL = 4 UG/L
+BHCBETA,Beta-Benzene Hexachloride (Beta- BHC) ,NL = 0.025 UG/L
+ALKB,Bicarbonate Alkalinity ,None
+B,Boron ,NL = 1 MG/L
+BROMCIL,Bromacil ,None
+BRO3,Bromate ,MCL = 10 UG/L
+BR,Bromide ,None
+BDCME,Bromodichloromethane (THM) ,MCL = 80 UG/L
+TBME,Bromoform (THM) ,MCL = 80 UG/L
+CD,Cadmium ,MCL = 5 UG/L
+CA,Calcium ,None
+CARBAMPINE,Carbamazepine  ,None
+SEVIN,Carbaryl (1-naphthyl methylcarbamate) ,NL = 700 UG/L
+CRBFN,Carbofuran ,MCL = 18 UG/L
+C-14,Carbon 14 ,None
+CDS,Carbon Disulfide ,NL = 160 UG/L
+CTCL,Carbon Tetrachloride ,MCL = 0.5 UG/L
+CHLORATE,Chlorate ,NL = 0.8 MG/L
+CHLORDANE,Chlordane ,MCL = 0.1 UG/L
+CL,Chloride ,SMCL = 500 MG/L
+CHLORITE,Chlorite ,MCL = 1 MG/L
+CLBZ,Chlorobenzene ,MCL = 70 UG/L
+TCLME,Chloroform (THM) ,MCL = 80 UG/L
+CLPICRIN,Chloropicrin ,None
+TERMIL,Chorothalonil ,None
+CR,Chromium ,MCL = 50 UG/L
+CR6,"Chromium, Hexavalent (Cr6) ",MCL = 10 UG/L
+DCE12C,"cis-1,2 Dichloroethylene ",MCL = 6 UG/L
+CO,Cobalt ,None
+CODEINE,Codeine  ,None
+CU,Copper ,Action Level = 1.3 MG/L
+COTININE,Cotinine  ,None
+CYANAZ,Cyanazine ,None
+CN,Cyanide (CN) ,MCL = 150 UG/L
+CYPERM,Cypermethrin ,HBSL = 40 UG/L
+OXYGEN18,d-18O in Water ,None
+DACTH,Dacthal ,HBSL = 70 UG/L
+DACTACID,Dacthalmonoacid ,None
+DALAPON,Dalapon ,MCL = 200 UG/L
+DEATZ,Deethylatrazine ,None
+DEHYDRONIF,Dehydronifedipine  ,None
+DIPATZ,Deisopropyl Atrazine ,None
+DEUTERIUM,Deuterium ,None
+DOA,Di(2-ethylhexyl)adipate ,MCL = 0.4 MG/L
+BIS2EHP,Di(2-ethylhexyl)phthalate (DEHP) ,MCL = 4 UG/L
+DIAZ,Diazinon ,NL = 6 UG/L
+DBCME,Dibromochloromethane (THM) ,MCL = 80 UG/L
+DICAMBA,Dicamba ,None
+FC12,Dichlorodifluoromethane ,None
+DCMA,Dichloromethane (Methylene Chloride) ,MCL = 5 UG/L
+DCPROP,Dichlorprop ,HBSL = 300 UG/L
+DICHLORVOS,Dichlorvos (DDVP) ,HBSL = 0.4 UG/L
+DICOFOL,Dicofol ,None
+DIELDRIN,Dieldrin ,HBSL = 0.002 UG/L
+DILTIAZEM,Diltiazem ,None
+DIMETHAT,Dimethoate ,HBSL = 2 UG/L
+DINOSEB,Dinoseb ,MCL = 7 UG/L
+DIPHENHYDR,Diphenhydramine  ,None
+DIQUAT,Diquat ,MCL = 20 UG/L
+DO,Dissolved Oxygen (DO) ,None
+DOSAT,"Dissolved Oxygen, Percent Saturation   ",None
+DIURON,Diuron ,HBSL = 2 UG/L
+SC,Electrical Conductivity ,SMCL = 1600 UMHOS/CM
+ENDOSULFANA,Endosulfan I ,None
+ENDOSULFANB,Endosulfan II ,None
+ENDOSULFANS,Endosulfan Sulfate ,None
+ENDOTHAL,Endothall ,MCL = 100 UG/L
+ENDRIN,Endrin ,MCL = 2 UG/L
+ENDRINALD,Endrin Aldehyde ,None
+EPTAM,EPTC ,HBSL = 200 UG/L
+ETBE,Ethyl tertiary butyl ether (ETBE) ,None
+EBZ,Ethylbenzene ,MCL = 300 UG/L
+ETEGLY,Ethylene glycol ,NL = 14 MG/L
+FCOLIFORM,Fecal Coliform (bacteria) ,MCL = 0.99 Count
+FENPHOS,Fenamiphos ,HBSL = 0.7 UG/L
+F,Fluoride ,MCL = 2 MG/L
+FOAMAGENTS,Foaming Agents (MBAS) ,SMCL = 0.5 MG/L
+FONOFOS,Fonofos ,HBSL = 10 UG/L
+FORMALD,Formaldehyde ,NL = 100 UG/L
+GLYP,Glyphosate (Round-up) ,MCL = 700 UG/L
+ALPHA,Gross Alpha radioactivity ,MCL = 15 pCi/L
+BETA,Gross beta ,MCL = 50 pCi/L
+AZIPM,Guthion (Azinphos Methyl) ,HBSL = 10 UG/L
+HE-4,Helium ,None
+HE-3/HE-4,Helium-3/Helium-4 ,None
+HEPTACHLOR,Heptachlor ,MCL = 0.01 UG/L
+HEPT-EPOX,Heptachlor Epoxide ,MCL = 0.01 UG/L
+HCLBZ,Hexachlorobenzene (HCB) ,MCL = 1 UG/L
+HCBU,Hexachlorobutadiene ,HBSL = 0.9 UG/L
+HCCP,Hexachlorocyclopentadiene ,MCL = 50 UG/L
+HEXAZINONE,Hexazinone ,HBSL = 400 UG/L
+I,Iodide ,None
+IPRODIONE,Iprodione ,HBSL = 0.8 UG/L
+FE,Iron ,SMCL = 300 UG/L
+IPBZ,Isopropylbenzene ( Cumene) ,HBSL = 700 UG/L
+KR,Krypton ,None
+PB,Lead ,Action Level = 15 UG/L
+BHCGAMMA,Lindane (Gamma-BHC)  ,MCL = 0.2 UG/L
+LINURON,Linuron ,HBSL = 5 UG/L
+LI,Lithium ,None
+MG,Magnesium ,None
+MALA,Malathion ,HBSL = 500 UG/L
+MN,Manganese ,SMCL = 50 UG/L
+HG,Mercury ,MCL = 2 UG/L
+METALAXYL,Metalaxyl ,HBSL = 500 UG/L
+CH4,"Methane, dissolved   ",None
+METHOMYL,Methomyl ,HBSL = 200 UG/L
+MTXYCL,Methoxychlor ,MCL = 30 UG/L
+BRME,Methyl Bromide (Bromomethane) ,None
+IME,Methyl Iodide ,None
+MIBK,Methyl Isobutyl Ketone (MIBK) ,NL = 120 UG/L
+METOCHLOR,Metolachlor ,HBSL = 700 UG/L
+METRIBUZ,Metribuzin ,HBSL = 90 UG/L
+MOLINATE,Molinate ,MCL = 20 UG/L
+MO,Molybdenum ,HAL-US = 40 UG/L
+MTBE,MTBE (Methyl-tert-butyl ether) ,SMCL = 5 UG/L
+BTBZN,n-Butylbenzene ,NL = 260 UG/L
+NNSPR,N-Nitrosodi-N-Propylamine (NDPA) ,HBSL = 0.005 UG/L
+NNSE,N-Nitrosodiethylamine (NDEA) ,NL = 0.005 UG/L
+NNSM,N-Nitrosodimethylamine (NDMA) ,NL = 0.01 UG/L
+PBZN,n-Propylbenzene (Isocumene) ,NL = 260 UG/L
+NALED,Naled ,HBSL = 10 UG/L
+NAPH,Naphthalene ,HBSL = 100 UG/L
+NAPROPAM,Napropamide ,HBSL = 800 UG/L
+NE,Neon ,None
+NI,Nickel ,MCL = 100 UG/L
+NO3,Nitrate as NO3 ,MCL = 45 MG/L
+NO2,Nitrite as N ,MCL = 1 MG/L
+NORFLUZON,Norflurazon ,HBSL = 10 UG/L
+HMX,Octogen (HMX) ,NL = 0.35 MG/L
+PORTHO,orthophosphate ,None
+OXAMYL,Oxamyl ,MCL = 50 UG/L
+OXYFLUOREN,Oxyfluorfen ,HBSL = 20 UG/L
+PARAE,Parathion ,HBSL = 0.02 UG/L
+PCNB,PCNB ,None
+PCP,Pentachlorophenol (PCP) ,MCL = 1 UG/L
+PCATE,Perchlorate ,MCL = 6 UG/L
+PERMETHRIN,Permethrin ,HBSL = 4 UG/L
+PH,pH ,None
+PHORATE,Phorate ,HBSL = 4 UG/L
+PICLORAM,Picloram ,MCL = 0.5 MG/L
+PCB1016,Polychlorinated Biphenyls (PCBs) ,MCL = 0.5 UG/L
+K,Potassium ,None
+PROMETON,Prometon ,HBSL = 400 UG/L
+PROMETRYN,Prometryn ,HBSL = 300 UG/L
+PROPACHLOR,Propachlor (2-Chloro-N-isopropylacetanilide) ,HBSL = 1 UG/L
+PROPANIL,Propanil ,HBSL = 6 UG/L
+PROPGITE,Propargite ,HBSL = 1 UG/L
+RA-226,Radium 226 ,MCL = 5& pCi/L 
+RA-228,Radium 228 ,MCL = 5& pCi/L 
+RN-222,Radon 222 ,MCL = 4000 pCi/L
+RDX,"RDX (hexahydro-1,3,5-trinitro-1,3,5-triazine) ",NL = 0.0003 MG/L
+BTBZS,sec-Butylbenzene ,NL = 260 UG/L
+SE,Selenium ,MCL = 50 UG/L
+AG,Silver ,SMCL = 100 UG/L
+SIMAZINE,Simazine ,MCL = 4 UG/L
+NA,Sodium  ,Action Level = 50 MG/L
+SR,Strontium ,HAL-US = 4000 UG/L
+SR-90,Strontium 90 ,MCL = 8 pCi/L
+STY,Styrene ,MCL = 100 UG/L
+SULFAMETH,Sulfamethoxazole   ,None
+SO4,Sulfate ,SMCL = 500 MG/L
+TEBUTHIURON,tebuthiuron ,HBSL = 1000 UG/L
+TEMP,Temperature ,None
+TBA,tert-Butyl alcohol (TBA) ,NL = 12 UG/L
+BTBZT,tert-Buytlbenzene ,NL = 260 UG/L
+TAME,Tertiary amyl methyl ether ,None
+PCE,Tetrachloroethene (PCE) ,MCL = 5 UG/L
+TL,Thallium ,MCL = 2 UG/L
+THIABEND,Thiabendazole ,None
+THIOBENCARB,Thiobencarb ,MCL = 70 UG/L
+BZME,Toluene ,MCL = 150 UG/L
+COLIFORM,Total Coliform Bacteria ,MCL = 0.99 Count
+TDS,Total Dissolved Solids ,SMCL = 1000 MG/L
+TOCH,Total Organic Carbon ,None
+THM,Total Trihalomethanes  ,MCL = 80 UG/L
+TOXAP,Toxaphene ,MCL = 3 UG/L
+DCE12T,"trans-1,2, Dichloroethylene ",MCL = 10 UG/L
+TCE,Trichloroethene (TCE) ,MCL = 5 UG/L
+FC11,Trichlorofluoromethane (Freon 11) ,MCL = 150 UG/L
+TRICLOPYR,Trichlorpyr ,HBSL = 400 UG/L
+TRIFLURALIN,Trifluralin ,HBSL = 20 UG/L
+TRIMETHOP,Trimethoprim ,None
+H-3,Tritium ,MCL = 20000 pCi/L
+W,Tungsten ,None
+U,Uranium ,MCL = 20 pCi/L
+V,Vanadium ,NL = 50 UG/L
+VC,Vinyl Chloride ,MCL = 0.5 UG/L
+WARFARIN,Warfarin  ,None
+XE,Xenon ,None
+XYLENES,Xylenes (total) ,MCL = 1750 UG/L
+ZN,Zinc ,MCL = 5 MG/L
